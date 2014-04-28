@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 28/04/2014 5:39:35 PM
+EESchema-DOCLIB  Version 2.0  Date: 28/04/2014 7:20:26 PM
 #
 $CMP EXPAND_HEADER
 D 28/40-pin expand connector
@@ -6,7 +6,7 @@ K CONN
 $ENDCMP
 #
 $CMP EXPAND_HEADER_IL
-D 28/40-pin expand connector
+D 28/40-pin expand connector (in-line symbol)
 K CONN
 $ENDCMP
 #
@@ -16,7 +16,7 @@ K CONN
 $ENDCMP
 #
 $CMP HV_PROG_HEADER_IL
-D 10-pin JTAG connector
+D 10-pin JTAG connector (in-line symbol)
 K CONN
 $ENDCMP
 #
@@ -26,7 +26,7 @@ K CONN
 $ENDCMP
 #
 $CMP ISP_HEADER_IL
-D 6-pin ISP connector
+D 6-pin ISP connector (in-line symbol)
 K CONN
 $ENDCMP
 #
@@ -35,8 +35,8 @@ D 10-pin JTAG connector
 K CONN
 $ENDCMP
 #
-$CMP JTAG_HEADER_IC
-D 10-pin JTAG connector
+$CMP JTAG_HEADER_IL
+D 10-pin JTAG connector (in-line symbol)
 K CONN
 $ENDCMP
 #
@@ -46,7 +46,7 @@ K CONN
 $ENDCMP
 #
 $CMP VCC_HEADER_IL
-D 6-pin VCC connector
+D 6-pin VCC connector (in-line symbol)
 K CONN
 $ENDCMP
 #
